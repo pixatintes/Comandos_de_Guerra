@@ -1,16 +1,23 @@
 {
   "title": "Comandos de Guerra",
+   "authors": [
+    {
+      "name": "pixatintes",
+      "flags": {}
+    }  
+  ],
+  "url": "https://github.com/pixatintes/Comandos_de_Guerra/", 
+  "manifest": "https://raw.githubusercontent.com/pixatintes/Comandos_de_Guerra/refs/heads/main/world.json",
+  "download": "https://github.com/pixatintes/Comandos_de_Guerra/archive/refs/heads/main.zip",
   "id": "sombra",
   "system": "sandbox",
   "joinTheme": "default",
   "coreVersion": "11.315",
   "compatibility": {
-    "minimum": "11",
+    "minimum": "10",
     "verified": "11"
   },
   "systemVersion": "0.14.4.4",
-  "lastPlayed": "Sun Feb 23 2025 19:51:26 GMT+0000 (Coordinated Universal Time)",
-  "playtime": 459126,
   "description": "<p>Se exigía a los Comandos que fueran aptos, que supieran nadar, que pudieran</p><p>manejar cualquier vehículo a motor, pero la condición indispensable era que</p><p>cualquier comando podía pedir regresar a su unidad cuando acabara la misión.</p><p>Pocos tenían la oportunidad de hacerlo...</p>",
   "background": ""
 }
