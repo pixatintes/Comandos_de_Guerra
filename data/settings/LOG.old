@@ -1,0 +1,24 @@
+2025/02/23-18:46:15.478977 f558177ef0a0 Recovering log #57
+2025/02/23-18:46:15.479008 f558177ef0a0 Level-0 table #59: started
+2025/02/23-18:46:15.481660 f558177ef0a0 Level-0 table #59: 720 bytes OK
+2025/02/23-18:46:15.486764 f558177ef0a0 Delete type=0 #57
+2025/02/23-18:46:15.486796 f558177ef0a0 Delete type=3 #56
+2025/02/23-19:50:17.660879 f55816dde0a0 Level-0 table #62: started
+2025/02/23-19:50:17.662783 f55816dde0a0 Level-0 table #62: 952 bytes OK
+2025/02/23-19:50:17.664756 f55816dde0a0 Delete type=0 #60
+2025/02/23-19:50:17.669416 f55816dde0a0 Manual compaction at level-0 from '!settings!8hyWiL7YhnQCN6kH' @ 72057594037927935 : 1 .. '!settings!sc5ZDrtX7z4YMggC' @ 0 : 0; will stop at '!settings!LifIGxRLq94UWv3d' @ 31 : 1
+2025/02/23-19:50:17.669422 f55816dde0a0 Compacting 2@0 + 0@1 files
+2025/02/23-19:50:17.672524 f55816dde0a0 Generated table #63@0: 5 keys, 952 bytes
+2025/02/23-19:50:17.672535 f55816dde0a0 Compacted 2@0 + 0@1 files => 952 bytes
+2025/02/23-19:50:17.674585 f55816dde0a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/23-19:50:17.674634 f55816dde0a0 Delete type=2 #59
+2025/02/23-19:50:17.674680 f55816dde0a0 Delete type=2 #62
+2025/02/23-19:50:17.683996 f55816dde0a0 Manual compaction at level-0 from '!settings!LifIGxRLq94UWv3d' @ 31 : 1 .. '!settings!sc5ZDrtX7z4YMggC' @ 0 : 0; will stop at (end)
+2025/02/23-19:50:17.688656 f55816dde0a0 Manual compaction at level-1 from '!settings!8hyWiL7YhnQCN6kH' @ 72057594037927935 : 1 .. '!settings!sc5ZDrtX7z4YMggC' @ 0 : 0; will stop at '!settings!njUKJd58MQfG47kk' @ 37 : 1
+2025/02/23-19:50:17.688661 f55816dde0a0 Compacting 1@1 + 1@2 files
+2025/02/23-19:50:17.691081 f55816dde0a0 Generated table #64@1: 11 keys, 1702 bytes
+2025/02/23-19:50:17.691095 f55816dde0a0 Compacted 1@1 + 1@2 files => 1702 bytes
+2025/02/23-19:50:17.692843 f55816dde0a0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/23-19:50:17.692912 f55816dde0a0 Delete type=2 #63
+2025/02/23-19:50:17.692963 f55816dde0a0 Delete type=2 #55
+2025/02/23-19:50:17.693010 f55816dde0a0 Manual compaction at level-1 from '!settings!njUKJd58MQfG47kk' @ 37 : 1 .. '!settings!sc5ZDrtX7z4YMggC' @ 0 : 0; will stop at (end)
